@@ -1,5 +1,21 @@
-胖东来
-于东来
+云原生
+可观测
+CNCF
+分布式
+AIOPS
+智能运维
+
+QWEN
+千问
+Qwen Code
+Qoder
+
+混元
+CodeBuddy
+
+文心一言
+kimi
+豆包
 
 DeepSeek
 梁文锋
@@ -29,22 +45,6 @@ DJI
 影之刃零
 梁其伟
 
-哪吒
-饺子
-杨宇
-!车
-!餐
-
-三体
-流浪地球
-刘慈欣
-郭帆
-
-申奥
-
-京东
-刘强东
-
 字节
 bytedance
 张一鸣
@@ -52,19 +52,23 @@ bytedance
 特斯拉
 马斯克
 
-微软
-Microsoft
-
 英伟达
 NVIDIA
 黄仁勋
 
 AMD
 
+AWS
+亚马逊
+
+Microsoft
+微软
+
 谷歌
 google
 gemini
 deepmind
+Gemini CLI
 
 chatgpt
 openai
@@ -72,6 +76,7 @@ sora
 
 claude
 Anthropic
+Claude CLI
 
 iphone
 ipad
@@ -88,10 +93,6 @@ ai
 
 国产
 中国
-
-美国
-日本
-韩国
 
 芯片
 光刻机
